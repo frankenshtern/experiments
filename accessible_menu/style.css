@@ -107,4 +107,7 @@ button {
 	.menu__container {
 		flex-direction: column;
 	}
+	.menu__button:hover {
+		text-decoration: none;
+	}
 }
